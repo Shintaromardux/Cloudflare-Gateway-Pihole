@@ -1,2 +1,9 @@
 # connect.facebook.net
 api-js.datadome.co
+imasdk.googleapis.com
+pagead2.googlesyndication.com
+c.office.com
+click.discord.com
+za.zalo.me
+api.statsig.com
+gecko-sg.byteoversea.com
